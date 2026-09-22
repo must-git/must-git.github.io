@@ -1,0 +1,1 @@
+const c=[{c:"مرحباً، أنا",i:1,t:"h2"},{c:"Mustapha",i:2,t:"h1"},{c:"طالب في هندسة البرمجيات",i:3,t:"h4"}],t={"3d30bb1fd192e679":{c:"Mustapha Achahrour – طالب في هندسة البرمجيات ومطوّر Full-Stack",i:1,t:"h1"},"4171546eb9c5a38e":[{c:"مرحبًا بك في تطبيقي",i:1,t:"h1"},{c:"ستتم ترجمة هذا المحتوى تلقائيًا.",i:2,t:"p"}],dcf4db68c95d89a1:c};export{c as dcf4db68c95d89a1,t as default};
